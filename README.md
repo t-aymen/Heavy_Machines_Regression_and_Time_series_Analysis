@@ -3,9 +3,9 @@
 ## Context and Scope
 The goal of this project is to predict the sale price of a particular piece of heavy equiment sold at an auction based on it's usage, equipment type, and configuration. The data is sourced from auction result postings and includes information on usage and equipment configurations, created and publically published by Fast Iron on Kaggle.
 
->> <b>About Fast Iron</b>
+<b>About Fast Iron</b>
 
->> Fast Iron is a content-focused business that aids customers in creating enterprise data standards, cleansing data, and maintaining clean data. Utilizing proprietary applications and an ever growing data cleansing team, Fast Iron has normalized data for more than 2.5 million machine and customer records for the heavy equipment industry.
+Fast Iron is a content-focused business that aids customers in creating enterprise data standards, cleansing data, and maintaining clean data. Utilizing proprietary applications and an ever growing data cleansing team, Fast Iron has normalized data for more than 2.5 million machine and customer records for the heavy equipment industry.
 
 ## Project Data
 
