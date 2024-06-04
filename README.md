@@ -1,4 +1,4 @@
-# Heavy Machines Sales - Regression and Time-series Analysis
+# Heavy Machines Sales Regression and Time-series Analysis
 
 ## Context and Scope
 The project involves predicting the auction sale prices of bulldozers using historical data from the Bluebook for Bulldozers competition on Kaggle. The dataset includes various features such as equipment types, usage, and configurations to build robust machine learning models.
