@@ -1,7 +1,7 @@
 # Heavy Machines Sales - Regression and Time-series Analysis
 
 ## Context and Scope
-The goal of this project is to predict the sale price of a particular piece of heavy equiment sold at an auction based on it's usage, equipment type, and configuration. The data is sourced from auction result postings and includes information on usage and equipment configurations, created and publically published by Fast Iron on Kaggle.
+The project involves predicting the auction sale prices of bulldozers using historical data from the Bluebook for Bulldozers competition on Kaggle. The dataset includes various features such as equipment types, usage, and configurations to build robust machine learning models. The data is sourced from auction result postings, created and publically published by Fast Iron on Kaggle.
 
 <b>About Fast Iron</b>
 
